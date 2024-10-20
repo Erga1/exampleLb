@@ -1,0 +1,3 @@
+Clean,2345678901,4
+Java: A Begginner GUide,3456789012,3
+Effective Java,1234567890,1
